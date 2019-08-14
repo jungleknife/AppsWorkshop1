@@ -1,0 +1,12 @@
+C:\Users\Admin\source\repos\WebApplicationProductCategory\WebApplicationProductCategory\bin\Debug\netcoreapp2.0\WebApplicationProductCategory.deps.json
+C:\Users\Admin\source\repos\WebApplicationProductCategory\WebApplicationProductCategory\bin\Debug\netcoreapp2.0\WebApplicationProductCategory.runtimeconfig.json
+C:\Users\Admin\source\repos\WebApplicationProductCategory\WebApplicationProductCategory\bin\Debug\netcoreapp2.0\WebApplicationProductCategory.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\WebApplicationProductCategory\WebApplicationProductCategory\bin\Debug\netcoreapp2.0\WebApplicationProductCategory.dll
+C:\Users\Admin\source\repos\WebApplicationProductCategory\WebApplicationProductCategory\bin\Debug\netcoreapp2.0\WebApplicationProductCategory.pdb
+C:\Users\Admin\source\repos\WebApplicationProductCategory\WebApplicationProductCategory\obj\Debug\netcoreapp2.0\WebApplicationProductCategory.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\WebApplicationProductCategory\WebApplicationProductCategory\obj\Debug\netcoreapp2.0\WebApplicationProductCategory.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\WebApplicationProductCategory\WebApplicationProductCategory\obj\Debug\netcoreapp2.0\UserSecretsAssemblyInfo.cs
+C:\Users\Admin\source\repos\WebApplicationProductCategory\WebApplicationProductCategory\obj\Debug\netcoreapp2.0\WebApplicationProductCategory.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\WebApplicationProductCategory\WebApplicationProductCategory\obj\Debug\netcoreapp2.0\WebApplicationProductCategory.AssemblyInfo.cs
+C:\Users\Admin\source\repos\WebApplicationProductCategory\WebApplicationProductCategory\obj\Debug\netcoreapp2.0\WebApplicationProductCategory.dll
+C:\Users\Admin\source\repos\WebApplicationProductCategory\WebApplicationProductCategory\obj\Debug\netcoreapp2.0\WebApplicationProductCategory.pdb
